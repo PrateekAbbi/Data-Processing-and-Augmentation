@@ -1,0 +1,7 @@
+Frontend/frontend/node_modules
+Frontend/frontend/package-lock.json
+Backend/.cache.sqlite
+Backend/db.sqlite3
+Backend/Pipfile.lock
+Backend/Backend/__pycache__
+Backend/playground/__pycache__
